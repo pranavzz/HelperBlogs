@@ -1,0 +1,20 @@
+.title{
+    color: rgb(192, 24, 24);
+}
+.blogs-adjust{
+    width: 45%;
+    max-width: 50%;
+    padding-top: 2vh;
+    /* padding: 3vh 3vh; */
+}
+.fs-blogs{
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+}
+.fs-hashtag{
+    color: blueviolet;
+}
+.title1{
+    color: rgb(103, 1, 245);
+    font-size: 12px;
+}
